@@ -1,4 +1,4 @@
-# gastronimous.local
+# gastronymous.local
   Одностраничник по бесплатному PSD-шаблону.
 # Ссылка на облако:
   https://cloud.mail.ru/public/ANAG/idx12HvHE
